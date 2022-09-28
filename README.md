@@ -1,7 +1,7 @@
 
 ## P1. Topic and Objectives
 ### Project Group 5
-*Professor Manuel Montrard*
+*Professor Manuel D.Montrond*
 
 ### Project Overview:
 Unemployment is a global issue which needs to be addressed. This leads to a variety of other issues in society including poverty and eventually leads to reduction of gross domestic product (GDP) of the countries. The Government of India came up with the Mahatma Gandhi National Rural Employment Guarantee Act 2005 (MGNREGA), the aim of which is to ensure that every individual has the opportunity to exercise their right to work. For this project, we are designing a database which conveys government-centric information, displaying the progress of the initiative. 
